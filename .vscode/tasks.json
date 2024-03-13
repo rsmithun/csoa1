@@ -10,7 +10,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
-                "q2.s"
+                "q3.s"
             ],
             "options": {
                 "cwd": "${fileDirname}"

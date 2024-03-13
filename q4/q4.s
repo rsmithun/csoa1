@@ -1,7 +1,6 @@
 
 .global solve
 
-
 solve:
     mov (%rdi), %rax
     mov (%rdi), %rbx
